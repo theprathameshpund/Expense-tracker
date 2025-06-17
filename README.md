@@ -28,7 +28,7 @@ This is a simple **expense tracker web app** built using **Python Flask**. It al
 - 🌍 Flask-CORS
 - 🌐 HTML (for browser interface)
 - 🐘 Gunicorn (for deployment)
-- 🆓 Hosted on [Render](https://render.com)
+- 🆓 Hosted on [Render](https://expense-tracker-43ff.onrender.com/)
 
 ---
 
